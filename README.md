@@ -2,11 +2,11 @@
 
 An interactive 3D model of the human right membranous labyrinth (semicircular canals, ampullae, cupulae, common crus, utricle and saccule) for teaching vestibular anatomy. It runs in the browser with no install.
 
-**Open it:** https://jakalnz.github.io/labyrinth-model-lab/
+**Open it:** https://uoa-maud.github.io/labyrinth-model-lab/
 
 Rotate the model, switch structures on and off, recolour them, and compare the separate anatomical pieces with a single fused "skin" or the MRI fluid envelope that houses them.
 
-It is the model-design companion to the [VOR Simulator](https://jakalnz.github.io/vor-simulator/) ([source](https://github.com/jakalnz/vor-simulator)), which uses the same geometry to demonstrate the vestibulo-ocular reflex.
+It is the model-design companion to the [VOR Simulator](https://uoa-maud.github.io/vor-simulator/) ([source](https://github.com/uoa-maud/vor-simulator)), which uses the same geometry to demonstrate the vestibulo-ocular reflex.
 
 ## Data
 
